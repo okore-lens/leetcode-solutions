@@ -17,3 +17,5 @@ function findMedianSortedArrays(nums1: number[], nums2: number[]): number {
 const median = findMedianSortedArrays([1, 3], [2]);
 
 console.log(median);
+
+// TODO: Optimize complexity from O(Nlog(n)) to O(n)
